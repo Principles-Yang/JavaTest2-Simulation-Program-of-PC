@@ -81,7 +81,13 @@ public class Test {
    ```
  
 ## 六、系统运行截图
+
+  ##### 正常流水线-超频电脑
   ![](https://github.com/Principles-Yang/JavaTest2-Simulation-Program-of-PC/blob/main/result.png) <br><br>
+  
+  ##### 错误流水线-设定错误
+  ![]( https://github.com/Principles-Yang/JavaTest2-Simulation-Program-of-PC/blob/main/result1.png) <br><br>
+ 
   
 ## 七、感想与体会
    通过这次实验让我对Java的基本语法有了更深的了解,下次要主动多思考，编写出符合常理的逻辑判断的程序，希望以后自己有更深入的学习。
